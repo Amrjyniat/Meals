@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_fireplace_24.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\drawable\\ic_baseline_fireplace_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_custom_ripple.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\drawable-v21\\custom_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_ripple.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\drawable\\custom_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_error_24.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\drawable\\ic_baseline_error_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_meals.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\layout\\fragment_home_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_connection_load.json.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\raw\\connection_load.json"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_category_meal.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\layout\\item_category_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_list_meals_category.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\layout\\fragment_list_meals_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_connection_error.json.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\raw\\connection_error.json"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recyclerview_divider.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\drawable\\recyclerview_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_item_meal.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\drawable\\border_item_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_item_category_meal.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\drawable\\border_item_category_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_list_meal_category.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\layout\\item_list_meal_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_navigatio.xml.flat",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\navigation\\navigatio.xml"
+    }
+]

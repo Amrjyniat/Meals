@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home_meals.xml",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\layout\\fragment_home_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_list_meals_category.xml",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\layout\\fragment_list_meals_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list_meal_category.xml",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\layout\\item_list_meal_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_category_meal.xml",
+        "source": "C:\\Users\\Pc\\Desktop\\MealsApp\\app\\src\\main\\res\\layout\\item_category_meal.xml"
+    }
+]

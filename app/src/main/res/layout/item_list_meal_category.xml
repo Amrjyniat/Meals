@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="mealApi"
+            type="com.example.mealsapp.modules.MealApi" />
+
+    </data>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="6dp"
+        android:padding="@dimen/padding_8dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/item_image_meal"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_launcher_background"
+            mealCategoryImageUrl="@{mealApi.imageUrlMeal}"/>
+
+        <TextView
+            android:id="@+id/item_text_meal_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:layout_marginStart="@dimen/padding_8dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/item_image_meal"
+            app:layout_constraintTop_toTopOf="@+id/item_image_meal"
+            tools:text="Beef Banh Mi Bowls with Sriracha Mayo, Carrot"
+            mealCategoryName="@{mealApi.nameMeal}"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
