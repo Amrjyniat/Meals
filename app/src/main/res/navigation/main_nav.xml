@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigatio"
+    app:startDestination="@id/homeMealsFragment">
+
+    <fragment
+        android:id="@+id/homeMealsFragment"
+        android:name="com.example.meals.ui.meals.MealsFragment"
+        android:label="Meals"
+        tools:layout="@layout/fragment_meals">
+        <action
+            android:id="@+id/go_to_details"
+            app:destination="@id/mealDetailsFragment"/>
+<!--
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/fade_out" -->
+    </fragment>
+    <fragment
+        android:id="@+id/mealDetailsFragment"
+        android:name="com.example.meals.ui.meal_details.MealDetailsFragment"
+        android:label="{mealName}"
+        tools:layout="@layout/fragment_meal_details">
+        <argument
+            android:name="mealName"
+            app:argType="string" />
+    </fragment>
+</navigation>

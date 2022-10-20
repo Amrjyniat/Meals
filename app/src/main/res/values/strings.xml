@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meals</string>
+    <string name="no_results">There is no results</string>
+    <string name="retry">Retry</string>
+    <string name="instructions_dynamic">Instructions:\n\n%s</string>
+    <string name="show_more">Show more</string>
+    <string name="show_less">Show less</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="meal_details">Meal details</string>
+
+</resources>
