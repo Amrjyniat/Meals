@@ -3,8 +3,12 @@
 <p align="center">🍔 Meals is a small demo app based on modern Android technologies and MVVM architecture. built-in Kotlin, Coroutine, Flow, Retrofit, and Jetpack libraries like Hilt and Navigation.</p>
 
 <p align="center">
-<img src="https://www.linkpicture.com/q/BeFunky-collage_1.png"/>
+<img src="https://github.com/Amrjyniat/Meals/blob/master/Preview/screenshots.png"/>
 </p>
+
+<table> 
+<tr>
+<td>
 
 # Tech stack 🛠
 - Minimum SDK level 21.
@@ -22,7 +26,30 @@
   - MVVM design pattern.
   - Repository pattern.
 - [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API.
-<p align="center">
-<img src="https://www.linkpicture.com/q/BeFunky-collage_1.png"/>
-</p>
 
+</td>
+<td>
+ <p align="right">
+      <img src="https://github.com/Amrjyniat/Meals/blob/master/Preview/video.gif" width="320"/>
+   </p>
+</td>
+</tr>
+</table>
+
+# License 🔖
+
+```
+Copyright 2022 Amr Jyniat
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
