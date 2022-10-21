@@ -30,7 +30,7 @@
 </td>
 <td>
  <p align="right">
-      <img src="https://github.com/Amrjyniat/Meals/blob/master/Preview/video.gif" width="320"/>
+      <img src="https://github.com/Amrjyniat/Meals/blob/master/Preview/video.gif" width="300"/>
    </p>
 </td>
 </tr>
