@@ -1,4 +1,4 @@
-<h1 align="center">Meals [Work in progress 🚧]</h1>
+<h1 align="center">Meals</h1>
 
 <p align="center">🍔 Meals is a small demo app based on modern Android technologies and MVVM architecture. built-in Kotlin, Coroutine, Flow, Retrofit, and Jetpack libraries like Hilt and Navigation.</p>
 
