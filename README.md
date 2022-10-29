@@ -38,7 +38,7 @@
 
 # Open Api
 Meals using [theMealDB](https://www.themealdb.com/api.php) API for constructing RESTful API.
-<img src=""https://github.com/Amrjyniat/Meals/blob/master/Preview/theMealDB_logo.png width="200" height="50" align="right" hspace="50"/>
+<img src="https://github.com/Amrjyniat/Meals/blob/master/Preview/theMealDB_logo.png" width="200" height="50" align="right" hspace="50"/>
 
 TheMealDB has a variety of meal data, its ingredients, the way to cook each meal, and much more.
 # License 🔖
