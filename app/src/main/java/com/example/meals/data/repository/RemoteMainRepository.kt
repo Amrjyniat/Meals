@@ -1,4 +1,4 @@
-package com.example.meals.domain.repo
+package com.example.meals.data.repository
 
 import com.example.meals.data.network.modules.responses.MealResp.Companion.toMeal
 import com.example.meals.data.network.modules.responses.MealResp.Companion.toMeals
@@ -11,7 +11,7 @@ import javax.inject.Inject
 import javax.inject.Singleton
 
 @Singleton
-class MainRepositoryImpl @Inject constructor(
+class RemoteMainRepository @Inject constructor(
     private val service: MealsService
 ) : MainRepository {
 
